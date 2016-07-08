@@ -1,0 +1,6 @@
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\bin\Debug\Antu0807.exe.config
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\obj\Debug\Antu0807.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\bin\Debug\Antu0807.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\bin\Debug\Antu0807.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\obj\Debug\Antu0807.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Antu0807\Antu0807\obj\Debug\Antu0807.pdb
